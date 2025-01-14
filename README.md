@@ -1,2 +1,0 @@
-# 
-# BUDGET_TRACKER_APP
